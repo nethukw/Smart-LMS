@@ -1,0 +1,7 @@
+{
+  "Theme": "System Default",
+  "FontSize": "Medium",
+  "Language": "English",
+  "AutoBackup": false,
+  "ShowHints": true
+}

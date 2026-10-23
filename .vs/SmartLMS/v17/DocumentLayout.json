@@ -1,0 +1,1332 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|c:\\users\\nethu\\onedrive\\documents\\visual application programming\\vspractical\\smartlms\\smartlms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\manageusersform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\managecoursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\managecoursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\thememanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\admindashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\settingsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\baseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturerassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturerassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturerassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturerassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\assignmentpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\assignmentpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\profileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentcourseviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentcourseviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentcourseviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentcourseviewform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\adminanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\adminanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\adminanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\adminanalyticsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\addcourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentsubmitworkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentsubmitworkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentsubmitworkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentsubmitworkform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\splashscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\splashscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\reportsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\newassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\newassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\newassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\newassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\materialuploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\materialuploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\managecoursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\managecoursesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturersubmissionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturersubmissionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturersubmissionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturersubmissionsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturerlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturerinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturerinfoform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturerdashboardform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturercourseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lectureraddassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lectureraddassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturematerialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturematerialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturematerialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturematerialform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\coursemanagementscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\coursemanagementscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\coursedetailpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\coursedetailpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\adminmanagestudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\adminmanagestudentsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lectureraddassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lectureraddassignmentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\submission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\lecturersubmissionsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\lecturersubmissionsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\adduserform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentassignmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentassignmentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\splashscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\splashscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\gradesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\gradesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\gradesform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\gradesform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\assignmentpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\assignmentpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\gradientbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\gradientbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentsubmitworkform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentsubmitworkform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\studentsubmitworkform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\studentsubmitworkform.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\coursemanagementscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\coursemanagementscreenform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\gradesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\coursedetailpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\coursedetailpageform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\registerformmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\registerformmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\registerformmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\registerformmy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\materialuploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\materialuploadform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\gradientpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\smartlms\\gradientbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F63DF26-591E-4D71-A22D-AEB5BE8011AB}|SmartLMS\\SmartLMS.csproj|solutionrelative:smartlms\\gradientbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageCoursesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageCoursesForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ManageCoursesForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageCoursesForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\ManageCoursesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:15:21.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManageUsersForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageUsersForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ManageUsersForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageUsersForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\ManageUsersForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:13:22.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUsersForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageUsersForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ManageUsersForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageUsersForm.cs",
+              "RelativeToolTip": "SmartLMS\\ManageUsersForm.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAArwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:53:35.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:12:18.977Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentDashboard.cs",
+              "RelativeToolTip": "SmartLMS\\StudentDashboard.cs",
+              "ViewState": "AgIAAJcBAAAAAAAAAAAmwMsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:12:20.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LoginForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:01:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminDashboardForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\AdminDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:46:47.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThemeManager.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ThemeManager.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ThemeManager.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ThemeManager.cs",
+              "RelativeToolTip": "SmartLMS\\ThemeManager.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:34:52.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminDashboardForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AdminDashboardForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminDashboardForm.cs",
+              "RelativeToolTip": "SmartLMS\\AdminDashboardForm.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA6wC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:04:29.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LecturerDashboardForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerDashboardForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerDashboardForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LecturerDashboardForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:34:09.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingsForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SettingsForm.cs",
+              "RelativeToolTip": "SmartLMS\\SettingsForm.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAASwLUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:59:09.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SettingsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SettingsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\SettingsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SettingsForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\SettingsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:54:52.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\BaseForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\BaseForm.cs",
+              "RelativeToolTip": "SmartLMS\\BaseForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:51:31.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\BaseForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\BaseForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\BaseForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\BaseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T07:54:53.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LecturerAssignmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAssignmentForm.cs",
+              "RelativeToolTip": "SmartLMS\\LecturerAssignmentForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:00:40.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LecturerAssignmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAssignmentForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LecturerAssignmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-02T14:00:18.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ProfileForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\ProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:15:05.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LoginForm.cs",
+              "RelativeToolTip": "SmartLMS\\LoginForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAnwEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T12:01:25.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T11:00:31.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AssignmentPageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AssignmentPageForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AssignmentPageForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AssignmentPageForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\AssignmentPageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T08:55:16.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LecturerListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerListForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerListForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerListForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LecturerListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:39:14.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ProfileForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ProfileForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ProfileForm.cs",
+              "RelativeToolTip": "SmartLMS\\ProfileForm.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAArwO0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:24:35.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentAssignmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignmentForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\StudentAssignmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:12:27.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentCourseViewForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentCourseViewForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentCourseViewForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentCourseViewForm.cs",
+              "RelativeToolTip": "SmartLMS\\StudentCourseViewForm.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAWwJEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:54:08.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentCourseViewForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentCourseViewForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentCourseViewForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentCourseViewForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\StudentCourseViewForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:53:27.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LecturerCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerCourseForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerCourseForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerCourseForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LecturerCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:18:08.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminAnalyticsForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminAnalyticsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AdminAnalyticsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminAnalyticsForm.cs",
+              "RelativeToolTip": "SmartLMS\\AdminAnalyticsForm.cs",
+              "ViewState": "AgIAACABAAAAAAAAAAAIwDIBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:25:12.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminAnalyticsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminAnalyticsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AdminAnalyticsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminAnalyticsForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\AdminAnalyticsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T15:24:56.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StudentListForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentListForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentListForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentListForm.cs",
+              "RelativeToolTip": "SmartLMS\\StudentListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T07:42:12.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AddCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddCourseForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AddCourseForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddCourseForm.cs",
+              "RelativeToolTip": "SmartLMS\\AddCourseForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:20:01.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AddCourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddCourseForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AddCourseForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddCourseForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\AddCourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:15:48.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentSubmitWorkForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentSubmitWorkForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.cs",
+              "RelativeToolTip": "SmartLMS\\StudentSubmitWorkForm.cs",
+              "ViewState": "AgIAAAQBAAAAAAAAAAAAwO4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:12:15.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "StudentSubmitWorkForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentSubmitWorkForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\StudentSubmitWorkForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:12:13.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "StudentListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentListForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentListForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentListForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\StudentListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:45:16.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StudentAssignmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignmentForm.cs",
+              "RelativeToolTip": "SmartLMS\\StudentAssignmentForm.cs",
+              "ViewState": "AgIAAFgBAAAAAAAAAAAUwA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:12:29.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "SplashScreenForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SplashScreenForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\SplashScreenForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SplashScreenForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\SplashScreenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:24:44.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ReportsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ReportsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ReportsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ReportsForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\ReportsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:13:58.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\RegisterForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterForm.cs",
+              "RelativeToolTip": "SmartLMS\\RegisterForm.cs",
+              "ViewState": "AgIAAPYAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T12:38:01.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "NewAssignmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\NewAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\NewAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\NewAssignmentForm.cs",
+              "RelativeToolTip": "SmartLMS\\NewAssignmentForm.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAnwA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:45:04.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "NewAssignmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\NewAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\NewAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\NewAssignmentForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\NewAssignmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:26:26.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "MaterialUploadForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\MaterialUploadForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\MaterialUploadForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\MaterialUploadForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\MaterialUploadForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:55:41.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ManageCoursesForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageCoursesForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\ManageCoursesForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\ManageCoursesForm.cs",
+              "RelativeToolTip": "SmartLMS\\ManageCoursesForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T11:29:13.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LecturerSubmissionsForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerSubmissionsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerSubmissionsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerSubmissionsForm.cs",
+              "RelativeToolTip": "SmartLMS\\LecturerSubmissionsForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:26:28.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LecturerSubmissionsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerSubmissionsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerSubmissionsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerSubmissionsForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LecturerSubmissionsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:40:07.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LecturerListForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerListForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerListForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerListForm.cs",
+              "RelativeToolTip": "SmartLMS\\LecturerListForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:41:56.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "LecturerInfoForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerInfoForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerInfoForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerInfoForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LecturerInfoForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T15:31:18.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "LecturerDashboardForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerDashboardForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerDashboardForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerDashboardForm.cs",
+              "RelativeToolTip": "SmartLMS\\LecturerDashboardForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:10:13.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LecturerCourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerCourseForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerCourseForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerCourseForm.cs",
+              "RelativeToolTip": "SmartLMS\\LecturerCourseForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:24:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LecturerAddAssignmentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAddAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerAddAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAddAssignmentForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LecturerAddAssignmentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:43:32.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LectureMaterialForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LectureMaterialForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LectureMaterialForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LectureMaterialForm.cs",
+              "RelativeToolTip": "SmartLMS\\LectureMaterialForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T18:00:09.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "LectureMaterialForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LectureMaterialForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LectureMaterialForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LectureMaterialForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\LectureMaterialForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:15:25.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "GradesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\GradesForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\GradesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:23:37.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "CourseManagementScreenForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseManagementScreenForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\CourseManagementScreenForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseManagementScreenForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\CourseManagementScreenForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:09:10.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:36:56.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CourseDetailPageForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseDetailPageForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\CourseDetailPageForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseDetailPageForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\CourseDetailPageForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T13:36:52.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AdminManageStudentsForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminManageStudentsForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AdminManageStudentsForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AdminManageStudentsForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\AdminManageStudentsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:58:56.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "AddUserForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AddUserForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddUserForm.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\AddUserForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T17:13:41.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Program.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\Program.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Program.cs",
+              "RelativeToolTip": "SmartLMS\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:43:09.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AppSettings.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AppSettings.cs",
+              "RelativeToolTip": "SmartLMS\\AppSettings.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T17:31:50.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "LecturerAddAssignmentForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAddAssignmentForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerAddAssignmentForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerAddAssignmentForm.cs",
+              "RelativeToolTip": "SmartLMS\\LecturerAddAssignmentForm.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAwwGwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T18:46:59.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "role.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\role.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\role.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\role.cs",
+              "RelativeToolTip": "SmartLMS\\role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T08:10:42.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Submission.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Submission.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\Submission.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Submission.cs",
+              "RelativeToolTip": "SmartLMS\\Submission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:41:23.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LecturerSubmissionsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerSubmissionsForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\LecturerSubmissionsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\LecturerSubmissionsForm.Designer.cs",
+              "RelativeToolTip": "SmartLMS\\LecturerSubmissionsForm.Designer.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAmwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T04:30:05.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Prompt.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\Prompt.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Prompt.cs",
+              "RelativeToolTip": "SmartLMS\\Prompt.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA9wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:15:35.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\DBHelper.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\DBHelper.cs",
+              "RelativeToolTip": "SmartLMS\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:36:44.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "AddUserForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddUserForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AddUserForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AddUserForm.cs",
+              "RelativeToolTip": "SmartLMS\\AddUserForm.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T14:12:07.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "StudentAssignmentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignmentForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentAssignmentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignmentForm.Designer.cs",
+              "RelativeToolTip": "SmartLMS\\StudentAssignmentForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T16:46:33.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "SplashScreenForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SplashScreenForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\SplashScreenForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\SplashScreenForm.cs",
+              "RelativeToolTip": "SmartLMS\\SplashScreenForm.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T16:36:42.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Course.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\Course.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\Course.cs",
+              "RelativeToolTip": "SmartLMS\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T18:01:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "GradesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\GradesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.Designer.cs",
+              "RelativeToolTip": "SmartLMS\\GradesForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T06:19:54.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "GradesForm.resx",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.resx",
+              "RelativeDocumentMoniker": "SmartLMS\\GradesForm.resx",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.resx",
+              "RelativeToolTip": "SmartLMS\\GradesForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-30T06:19:54.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "AssignmentPageForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AssignmentPageForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\AssignmentPageForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\AssignmentPageForm.cs",
+              "RelativeToolTip": "SmartLMS\\AssignmentPageForm.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAYwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:43:25.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GradientButton.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradientButton.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\GradientButton.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradientButton.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\GradientButton.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:43:23.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "StudentAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignment.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentAssignment.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentAssignment.cs",
+              "RelativeToolTip": "SmartLMS\\StudentAssignment.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T14:42:58.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "StudentSubmitWorkForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.Designer.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentSubmitWorkForm.Designer.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.Designer.cs",
+              "RelativeToolTip": "SmartLMS\\StudentSubmitWorkForm.Designer.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T12:05:45.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "StudentSubmitWorkForm.resx",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.resx",
+              "RelativeDocumentMoniker": "SmartLMS\\StudentSubmitWorkForm.resx",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\StudentSubmitWorkForm.resx",
+              "RelativeToolTip": "SmartLMS\\StudentSubmitWorkForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-22T12:05:58.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "CourseManagementScreenForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseManagementScreenForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\CourseManagementScreenForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseManagementScreenForm.cs",
+              "RelativeToolTip": "SmartLMS\\CourseManagementScreenForm.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:33:38.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "GradesForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\GradesForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradesForm.cs",
+              "RelativeToolTip": "SmartLMS\\GradesForm.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAawBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T14:44:06.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CourseDetailPageForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseDetailPageForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\CourseDetailPageForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\CourseDetailPageForm.cs",
+              "RelativeToolTip": "SmartLMS\\CourseDetailPageForm.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAawBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:38:28.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "RegisterFormMy.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterFormMy.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\RegisterFormMy.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterFormMy.cs [Design]",
+              "RelativeToolTip": "SmartLMS\\RegisterFormMy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:39:10.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "RegisterFormMy.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterFormMy.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\RegisterFormMy.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\RegisterFormMy.cs",
+              "RelativeToolTip": "SmartLMS\\RegisterFormMy.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAqwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T17:39:12.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "MaterialUploadForm.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\MaterialUploadForm.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\MaterialUploadForm.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\MaterialUploadForm.cs",
+              "RelativeToolTip": "SmartLMS\\MaterialUploadForm.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAcwDQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:07:02.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "GradientPanel.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradientPanel.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\GradientPanel.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradientPanel.cs",
+              "RelativeToolTip": "SmartLMS\\GradientPanel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T16:12:47.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "GradientButton.cs",
+              "DocumentMoniker": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradientButton.cs",
+              "RelativeDocumentMoniker": "SmartLMS\\GradientButton.cs",
+              "ToolTip": "C:\\Users\\nethu\\OneDrive\\Documents\\Visual Application Programming\\VSPractical\\SmartLMS\\SmartLMS\\GradientButton.cs",
+              "RelativeToolTip": "SmartLMS\\GradientButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T15:43:35.556Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
